@@ -6,7 +6,7 @@
   
   - 🔭 NEXUSNODE, CRAFTINGDEAD, APOCNFT
   - 🌱 Security & Cloud Architect | Cyber Security Strategy | Risk Management
-  - 💬 Ask me about [NEXUSNODE](https://nexusnode.com), [CRAFTINGDEAD](https://craftingdead.net), [APOCNFT](https://apocnft.com
+  - 💬 Ask me about [NEXUSNODE](https://nexusnode.com), [CRAFTINGDEAD](https://craftingdead.net), [APOCNFT](https://apocnft.com)
   - 😄 Pronouns: He / Him
   - ⚡ Discord: Brad#8888
   
