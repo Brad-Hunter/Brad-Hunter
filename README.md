@@ -31,5 +31,4 @@
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=0xE69&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=0xE69&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/0xE69/brad/blob/master/saved.gif" width="195">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=0xE69&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=0xE69&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
