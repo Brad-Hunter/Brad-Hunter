@@ -4,7 +4,7 @@
 <a href="https://ko-fi.com/bradh233"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 NEXUSNODE, CRAFTINGDEAD, APOCNFT, CASPER, WHALESTAKING
-  - 🌱 Security & Cloud Architect | Cyber Security Strategy | CDFE CISM CISA
+  - 🌱 Security & Cloud Architect | Cyber Security Strategy 
   - 💬 Ask me about [NEXUSNODE](https://nexusnode.com), [CRAFTING DEAD](https://craftingdead.net), [APOCNFT](https://apocnft.com), [NFTSPOT](https://NFTSPOT.com), [WHALE STAKING](https://WhaleStaking.com)
   - 😄 Pronouns: He / Him
   - ⚡ Discord: hrh.hunter
