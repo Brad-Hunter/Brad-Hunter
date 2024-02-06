@@ -7,7 +7,7 @@
   - 🌱 Security & Cloud Architect | Cyber Security Strategy | CDFE CISM CISA
   - 💬 Ask me about [NEXUSNODE](https://nexusnode.com), [CRAFTING DEAD](https://craftingdead.net), [APOCNFT](https://apocnft.com), [NFTSPOT](https://NFTSPOT.com), [WHALE STAKING](https://WhaleStaking.com)
   - 😄 Pronouns: He / Him
-  - ⚡ Discord: Brad#8888
+  - ⚡ Discord: hrh.hunter
   
   #### 📫 How to reach me:
   
