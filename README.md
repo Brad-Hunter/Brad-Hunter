@@ -7,7 +7,7 @@
   - 🌱 Security & Cloud Architect | Cyber Security Strategy 
   - 💬 Ask me about [NEXUSNODE](https://nexusnode.com), [CRAFTING DEAD](https://craftingdead.net), [APOCNFT](https://apocnft.com), [NFTSPOT](https://NFTSPOT.com), [WHALE STAKING](https://WhaleStaking.com)
   - 😄 Pronouns: He / Him
-  - ⚡ Discord: hrh.hunter
+  - ⚡ Discord: Brad_x64
   
   #### 📫 How to reach me:
   
